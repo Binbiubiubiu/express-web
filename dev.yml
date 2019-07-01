@@ -1,0 +1,8 @@
+apps:
+
+  - script : 'system/app.js'
+    name: system
+    instances: 2
+    exec_mode: cluster
+    watch: false
+    usePolling: true

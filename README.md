@@ -1,2 +1,5 @@
 # express-web
-express+mongodb+redis
+express
+
+
+a simple node web 
